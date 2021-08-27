@@ -1,0 +1,12 @@
+.header_div{
+    background:cyan;
+    color:black;
+    text-align: center;
+}
+.copyright{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background:royalblue;
+    font-size: medium;
+}
